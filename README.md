@@ -78,4 +78,4 @@ stay on your machine — Jimin doesn't proxy through any server.
 In active development. Source available; private builds shared with friends 
 while the work is still in development.
 
-For more on Jimin, atel, and other work: [atel.studio](https://atel.studio).
+Thanks
